@@ -1,4 +1,4 @@
-# Tutorial-Python
+# Tutorial-Python-Dasar
 Mengenal Python Lebih Dasar
 
 Berikut ini tutorial python dasar yaitu:
