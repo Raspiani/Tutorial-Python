@@ -5,3 +5,9 @@ Berikut ini tutorial python dasar yaitu:
 
 1. Perbedaan Penggunaan "is" dan "=="
 2. Cara Melakukan Looping Index di Python
+
+
+
+## Tutorial Python List Comprehension
+
+- Python - List Comprehension dengan Fungsi Range
