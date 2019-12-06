@@ -11,3 +11,5 @@ Berikut ini tutorial python dasar yaitu:
 ## Tutorial Python List Comprehension
 
 - Python - List Comprehension dengan Fungsi Range
+- Python - List Comprehension untuk Membuat Perhitungan dalam List Baru
+- Python - Membuat Kondisi dalam List Comprehension
